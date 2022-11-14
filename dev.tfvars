@@ -1,0 +1,6 @@
+region = "us-east-1"
+vpc_name = "prod-vpc"
+vpc_cidr = "10.0.0.0/16"
+instance_type = "t2.micro"
+web_trigger = "1.1"
+load_balancer_type = "network"
